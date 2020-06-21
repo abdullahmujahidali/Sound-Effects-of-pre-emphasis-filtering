@@ -1,0 +1,2 @@
+# Sound-Effects-of-pre-emphasis-filtering
+A pre-emphasis filter with a selective parameter 0 α &lt; 1, which controls the degree of pre-emphasis filtering. Assuming the system has a sampling rate of 8,000 Hz, plot the frequency responses for α o, α = 0.4, α 08, α = 095, α 0.99, respectively. For each case, apply the pre-emphasis filter to the given speech ("'speech dat") and discuss the sound effects.
